@@ -4,7 +4,7 @@
 
 # 🎮 Zainab Fatima Ali
 
-### Gameplay Programmer | Game Developer | Problem Solver
+### Game Developer | Problem Solver
 
 *XP Farming since 2018*
 
@@ -21,9 +21,10 @@
 ```csharp
 public class Zainab : GameplayProgrammer
 {
-    public string Location = "Hamburg, Germany";
-    public string[] Passions = { "Games", "Code", "Sailing", "Horse Riding", "D&D" };
-    public string CurrentFocus = "Mastering Unreal Engine & C++";
+    public string SpawnPoint = "Hamburg, Germany";
+    public string[] Attributes = { "Games", "Code", "Sailing", "Horse Riding", "D&D" };
+    public string SideQuest = "Mastering Unreal Engine & C++";
+    public string MainQuest = "Cosying up to our future AI Lords"
     
     public override void Introduce()
     {
@@ -31,6 +32,8 @@ public class Zainab : GameplayProgrammer
                          "emerge from tight collaboration between code, art, and design.");
         Console.WriteLine("When I'm not debugging, you'll find me exploring fantastical " +
                          "worlds or going on adventures in the real world.");
+        Console.WriteLine("Currently, I'm on a solo arc dabbling in the prowess of Next Gen AI " +
+                         "and working as a Data Engineer at AHEAD Automotive GmbH");
     }
 }
 ```
