@@ -91,6 +91,7 @@ public class Zainab : GameplayProgrammer
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DznEggs4Keira&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DznEggs4Keira&color=FF6B6B&style=for-the-badge)
+
 </div>
 
 ---
