@@ -77,23 +77,6 @@ public class Zainab : GameplayProgrammer
 🎓 MSc in Computer Games Technology         🔧 30,000+ Records Synced via APIs
 ⚔️ Skyrim Mod with Adaptive AI             🎨 Collaborated with 9-person teams
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Zainab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DznEggs4Keira&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DznEggs4Keira&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DznEggs4Keira&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
-
-![Profile Views](https://komarev.com/ghpvc/?username=DznEggs4Keira&color=FF6B6B&style=for-the-badge)
-
-</div>
-
 ---
 
 <div align="center">
